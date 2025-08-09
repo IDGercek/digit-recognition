@@ -467,13 +467,13 @@
     {
       "cell_type": "code",
       "source": [
-        "torch.save(model, \"model.pth\")"
+        "torch.save(model.state_dict(), \"model.pth\")"
       ],
       "metadata": {
         "id": "WVoJUQJHg6-k"
       },
       "id": "WVoJUQJHg6-k",
-      "execution_count": 48,
+      "execution_count": 49,
       "outputs": []
     }
   ],
