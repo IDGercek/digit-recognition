@@ -14,12 +14,12 @@ The model is a CNN with 2 convolutional layers and 2 fully connected layers.
 - Fully Connected Layer 2 (with Softmax activation)
 
 Metrics:
-    - Lowest loss on test dataset: 0.0340
-    - Highest accuracy on test dataset: 99.20%
+- Lowest loss on test dataset: 0.0340
+- Highest accuracy on test dataset: 99.20%
 
 ## Inference
 
-This project also has a basic interface for model evaluation at [src/main.py](src/main.py)
+The project also has a basic interface for model evaluation at [src/main.py](src/main.py)
 
 ## File Structure
 
