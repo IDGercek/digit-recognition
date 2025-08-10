@@ -19,7 +19,9 @@ Metrics:
 
 ## Inference
 
-The project also has a basic interface for model evaluation at [src/main.py](src/main.py)
+The project has a basic interface for model evaluation at [src/main.py](src/main.py)
+
+I also added a [notebook](/notebooks/visualize.ipynb) to see intermadiate steps of the model. Useful to understand how convolution works.
 
 ## File Structure
 
